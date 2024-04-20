@@ -1,0 +1,2 @@
+# niksos-dotfiles
+just dots
