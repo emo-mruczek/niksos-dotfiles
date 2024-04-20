@@ -1,2 +1,2 @@
 # niksos-dotfiles
-just dots
+po prostu kropki
